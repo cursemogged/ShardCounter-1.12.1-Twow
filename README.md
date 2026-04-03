@@ -1,4 +1,4 @@
-![Example placement](shardcounter.jpg)
+![Example placement](Shardcounter.jpg)
 
 Addon fully made with chatgpt. If you want to make changes just paste the whole LUA in a prompt and try to figure it out
 
