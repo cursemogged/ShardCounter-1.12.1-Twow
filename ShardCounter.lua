@@ -36,7 +36,7 @@ local icon = frame:CreateTexture(nil, "ARTWORK")
 icon:SetWidth(35)
 icon:SetHeight(35)
 icon:SetPoint("CENTER", frame, "CENTER", 0, 0)
-icon:SetTexture("Interface\\Icons\\INV_Misc_Gem_Amethyst_02")
+icon:SetTexture("Interface\\AddOns\\ShardCounter\\Textures\\INV_Misc_Gem_Amethyst_02")
 icon:SetTexCoord(0.15, 0.85, 0.15, 0.85)  -- 20% zoom
 
 -- Top line
