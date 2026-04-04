@@ -100,7 +100,7 @@ end
 -- Update display (1.12 compatible)
 local function UpdateShards()
     -- Directly set the icon since GetItemIcon doesn't exist
-    icon:SetTexture("Interface\\Icons\\INV_Misc_Gem_Amethyst_02")
+    icon:SetTexture("Interface\\AddOns\\ShardCounter\\Textures\\INV_Misc_Gem_Amethyst_02")
     
     local count = GetShardCount()
     countText:SetText(count)
