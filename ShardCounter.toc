@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: ShardCounter
+## Notes: Displays Soul Shard count
+## Author: You
+ShardCounter.lua
