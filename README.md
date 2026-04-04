@@ -1,3 +1,5 @@
+Made for vanilla wow 1.12.1/Twow
+
 ![Example placement](Shardcounter.jpg)
 
 Displays the amount of soul shards in your bag. The font is Expressway but the addon references to the standard FRIZQT font used by blizzard so it might not look the same for you (i swapped the default font)
