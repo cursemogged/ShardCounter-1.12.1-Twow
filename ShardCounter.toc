@@ -1,5 +1,6 @@
 ## Interface: 11200
 ## Title: ShardCounter
 ## Notes: Displays Soul Shard count
+## Version: 1.2
 ## Author: Cursemogged
 ShardCounter.lua
